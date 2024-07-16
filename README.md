@@ -34,7 +34,7 @@ Welcome to the Calculator Project! This project is a simple calculator applicati
   - HTML5
   - CSS3
   - JavaScript
-  - React.js
+    
 
 ## Installation
 
