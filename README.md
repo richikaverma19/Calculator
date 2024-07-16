@@ -48,12 +48,12 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/calculator-project.git
+    git clone https://github.com/richikaverma19/Calculator.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd calculator-project
+    cd calculator
     ```
 
 3. Install frontend dependencies:
@@ -74,7 +74,7 @@ To get a local copy up and running, follow these simple steps:
 ## Project Structure
 
 ```
-calculator-project/
+calculator/
 ├── public/
 ├── src/
 │   ├── assets/
@@ -101,3 +101,6 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
+Richika Verma - (richikaverma19@example.com)
+
+Project Link: (https://github.com/richikaverma19/Calculator)
